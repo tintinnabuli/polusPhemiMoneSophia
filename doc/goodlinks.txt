@@ -1,0 +1,24 @@
+
+#-------------------------------- -o-
+GIT
+
+https://git-scm.com/book/en/v2
+
+
+
+
+#-------------------------------- -o-
+REAPER
+
+https://reaperblog.net/2016/06/customizing-zoom-and-scroll/
+
+https://thehomerecordings.com/reaper-tips-and-shortcuts/
+
+https://www.youtube.com/watch?v=fuatZlqqXac
+	markers and regions (ch 19)
+
+https://www.youtube.com/watch?v=TbPZtXJE6XQ
+	Using Delay in Reaper - Pro Mix Academy
+
+
+
